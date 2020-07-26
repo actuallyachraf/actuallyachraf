@@ -3,7 +3,7 @@
 <!--
 **actuallyachraf/actuallyachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am Achraf, I graduated with BSc in Applied Mathematics currently on a Dipl.Eng (BSc and MSc included in Software Engineering) 
+I am Achraf, I graduated with BSc in Applied Mathematics currently on a Dipl.Eng (BSc and MSc included) in Software Engineering 
 my interests revolve around Decentralized Systems, Cryptography, Mathematics and Games. I currently work on implementing zkSNARKs and zkSTARKs in Blockchains
 and study Theorem Proving and Algorithmic Game Theory.
 
@@ -22,7 +22,7 @@ I’m currently learning :
 - [Algorithmic Game Theory](https://github.com/actuallyachraf/ag)
 
 - 👯 I’m looking to collaborate on anything that we're both interested in.
-- 🤔 I’m looking for help with building an artificial intelligence capable of proving convex optimization .
+- 🤔 I’m looking for help with building an artificial intelligence capable of solving convex optimization .
 - 💬 Ask me about blockchains, cryptography, mathematics.
 - 📫 How to reach me: actuallyachraf[at]gmail[dot]com
 - ⚡ Fun fact: I once appeared on TV.
