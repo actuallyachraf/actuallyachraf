@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**actuallyachraf/actuallyachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**actuallyachraf/actuallyachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am Achraf, I graduated with BSc in Applied Mathematics currently on a Dipl.Eng (BSc and MSc included in Software Engineering) 
 my interests revolve around Decentralized Systems, Cryptography, Mathematics and Games. I currently work on implementing zkSNARKs and zkSTARKs in Blockchains
@@ -26,4 +26,3 @@ I’m currently learning :
 - 💬 Ask me about blockchains, cryptography, mathematics.
 - 📫 How to reach me: actuallyachraf[at]gmail[dot]com
 - ⚡ Fun fact: I once appeared on TV.
--->
