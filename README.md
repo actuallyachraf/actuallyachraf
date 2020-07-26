@@ -22,7 +22,7 @@ I’m currently learning :
 - [Algorithmic Game Theory](https://github.com/actuallyachraf/ag)
 
 - 👯 I’m looking to collaborate on anything that we're both interested in.
-- 🤔 I’m looking for help with building an artificial intelligence capable of solving convex optimization .
-- 💬 Ask me about blockchains, cryptography, mathematics.
+- 🤔 I’m looking for help with building an artificial intelligence capable of solving convex optimization problems.
+- 💬 Ask me about blockchains, cryptography, mathematics but also spy thrillers and books.
 - 📫 How to reach me: actuallyachraf[at]gmail[dot]com
 - ⚡ Fun fact: I once appeared on TV.
