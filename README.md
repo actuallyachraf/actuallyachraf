@@ -5,7 +5,7 @@
 
 I am Achraf, I graduated with BSc in Applied Mathematics currently on a Dipl.Eng (BSc and MSc included) in Software Engineering and MSc in Applied Mathematics
 my interests revolve around Decentralized Systems, Cryptography, Mathematics and Games. I currently work on implementing zkSNARKs and zkSTARKs in Blockchains
-and study Theorem Proving and Algorithmic Game Theory.
+and study Complexity Theory and Algorithmic Game Theory.
 
 Previously I built Machine Learning models to compete in [numer.ai](https://numer.ai/) and classify malware at [saferwall](https://saferwall.com).
 
