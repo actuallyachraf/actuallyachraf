@@ -25,3 +25,8 @@ I’m currently building :
 - 💬 Ask me about blockchains, cryptography, mathematics but also spy thrillers and books.
 - 📫 How to reach me: actuallyachraf[at]gmail[dot]com
 - ⚡ Fun fact: I once appeared on TV.
+
+I also post on my blogs :
+
+- ~~[Machine Learning Mostly](https://radicalrafi.github.io)~~ (Unmaintained Anymore)
+- ~~[Computation Drafts](https://radicalrafi.github.io)~~ (Unmaintained Anymore)
