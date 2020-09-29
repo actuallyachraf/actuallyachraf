@@ -20,11 +20,13 @@ I played with :
 - [Theorem Proving with Lean](https://github.com/actuallyachraf/glowing-lean)
 - [Algorithmic Game Theory](https://github.com/actuallyachraf/ag)
 
+Who am I :
+
 - 👯 I’m looking to collaborate on anything that we're both interested in.
 - 🤔 I’m looking for help with building an artificial intelligence capable of solving convex optimization problems.
 - 💬 Ask me about blockchains, cryptography, mathematics but also spy thrillers and books.
 - 📫 How to reach me: actuallyachraf[at]gmail[dot]com
-- ⚡ Fun fact: I once appeared on TV.
+- ⚡ Favorite Quote: The essence of mathematics is in its freedom -- Cantor.
 
 I also post on my blogs :
 
