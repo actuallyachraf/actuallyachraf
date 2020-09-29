@@ -4,7 +4,7 @@
 **actuallyachraf/actuallyachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am Achraf, I graduated with BSc in Applied Mathematics currently on a Dipl.Eng (BSc and MSc included) in Software Engineering. My interests revolve around Decentralized Systems, Cryptography, Mathematics and Games. I ~~currently work on implementing zkSNARKs and zkSTARKs in Blockchains~~
-am currently on leave and studying Complexity Theory and Algorithmic Game Theory.
+am currently on leave and studying Complexity Theory and Algebraic Geometry.
 
 Previously I built Machine Learning models to compete in [numer.ai](https://numer.ai/) and classify malware at [saferwall](https://saferwall.com).
 
@@ -15,7 +15,7 @@ Some of the projects I worked on recently :
 - [Algebraic Primitives for Cryptography](https://github.com/actuallyachraf/algebra)
 - You can find my study notes [here](https://github.com/actuallyachraf/study-notes)
 
-I’m currently building :
+I played with :
 
 - [Theorem Proving with Lean](https://github.com/actuallyachraf/glowing-lean)
 - [Algorithmic Game Theory](https://github.com/actuallyachraf/ag)
