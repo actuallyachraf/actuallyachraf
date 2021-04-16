@@ -19,4 +19,4 @@ Some of the projects I worked on in the past :
 - [Algorithmic Game Theory](https://github.com/actuallyachraf/ag)
 - You can find my study notes [here](https://github.com/actuallyachraf/study-notes)
 
-- 📫 How to reach me: actuallyachraf[at]gmail[dot]com
+📫 How to reach me: actuallyachraf[at]gmail[dot]com
