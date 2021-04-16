@@ -4,7 +4,7 @@
 **actuallyachraf/actuallyachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am Achraf, I graduated with a BSc in Applied Mathematics (worked on the applications of [Differential Forms](https://en.wikipedia.org/wiki/Differential_form) in [Physics](https://en.wikipedia.org/wiki/Maxwell%27s_equations)) currently on a Dipl.Eng (BSc and MSc included) in Software Engineering.
-I am interested in Machine Learning, Decentralized Systems, Cryptography and Applied Mathematics.
+I am interested in Machine Learning,and Applied Mathematics (mostly Probability ∩ Game Theory).
 
 I am currently building tooling and machine learning models [@saferwall](https://saferwall.com).
 
