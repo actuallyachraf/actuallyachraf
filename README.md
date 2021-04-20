@@ -5,8 +5,6 @@
 
 I am Achraf, I graduated with a BSc in Applied Mathematics (worked on the applications of [Differential Forms](https://en.wikipedia.org/wiki/Differential_form) in [Physics](https://en.wikipedia.org/wiki/Maxwell%27s_equations)) currently on a Dipl.Eng (BSc and MSc included) in Software Engineering.
 
-My interests revolve around machine learning, math (mostly probability ∩ game theory ∩ dynamical systems), history and philosophy.
-
 I am currently building tooling and machine learning models [@saferwall](https://saferwall.com).
 
 Previously I built Machine Learning models to compete in [numer.ai](https://numer.ai/) and implemented [academically cited](https://sancy.iut-clermont.uca.fr/~lafourcade/PAPERS/PDF/technical-report-CGLY.pdf) cryptography libraries.
