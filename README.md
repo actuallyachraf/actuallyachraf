@@ -3,9 +3,7 @@
 <!--
 **actuallyachraf/actuallyachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-BSc in Applied Mathematics (worked on the applications of [Differential Forms](https://en.wikipedia.org/wiki/Differential_form) in [Physics](https://en.wikipedia.org/wiki/Maxwell%27s_equations)) currently on a Dipl.Eng (BSc and MSc included) in Software Engineering.
-
-Currently I am building tooling and machine learning models [@saferwall](https://saferwall.com).
+I am a Software Engineer building tooling and machine learning models [@saferwall](https://saferwall.com).
 
 Previously I built Machine Learning models to compete in [numer.ai](https://numer.ai/) and implemented [cited](https://sancy.iut-clermont.uca.fr/~lafourcade/PAPERS/PDF/technical-report-CGLY.pdf) cryptography libraries.
 
